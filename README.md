@@ -20,4 +20,17 @@ https://user-images.githubusercontent.com/51063831/195430627-579bb834-b6b5-4665-
 
 ### Muestra posiciones en Matlab con Peter-Corke
 
+#### Posición Home definida
+![home](https://user-images.githubusercontent.com/51063831/195764673-d1845a78-2625-490e-a8af-169bb778d4d7.jpeg)
 
+#### Posición 2
+![conf2](https://user-images.githubusercontent.com/51063831/195764694-a8a7229e-23fb-4482-825c-9aa0c286d00d.jpeg)
+
+#### Posición 3
+![conf3](https://user-images.githubusercontent.com/51063831/195764698-32bce2f7-1a44-4e1e-8079-cabe699936cd.jpeg)
+
+#### Posición 4
+![conf4](https://user-images.githubusercontent.com/51063831/195764703-3406a615-55e3-4f62-b81e-c549d80c6957.jpeg)
+
+#### Posición 5
+![conf5](https://user-images.githubusercontent.com/51063831/195764710-0eab6a20-37df-4250-bda4-81d9e10d48e5.jpeg)
