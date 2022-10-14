@@ -23,7 +23,7 @@ https://user-images.githubusercontent.com/51063831/195430627-579bb834-b6b5-4665-
 
 Para este laboratorio se hizo uso de un calibrador pie de rey con el fin de obtener las dimensiones del robot y de esta manera establecer los valores para cada eslabón. De dicho trabajo se obtuvo la siguiente tabla:
 
-
+![Tabla](https://user-images.githubusercontent.com/51063831/195765822-5eb767d6-6079-4dbd-868b-b4821d1e8d06.jpeg)
 
 ### Muestra posiciones en Matlab con Peter-Corke
 
