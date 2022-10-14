@@ -18,6 +18,13 @@ A continuación se presentan los videos, el desarrollo desde el código y el an�
 
 https://user-images.githubusercontent.com/51063831/195430627-579bb834-b6b5-4665-8b26-7a8b4e25e530.mp4
 
+
+### Definición Parámetros DH
+
+Para este laboratorio se hizo uso de un calibrador pie de rey con el fin de obtener las dimensiones del robot y de esta manera establecer los valores para cada eslabón. De dicho trabajo se obtuvo la siguiente tabla:
+
+
+
 ### Muestra posiciones en Matlab con Peter-Corke
 
 #### Posición Home definida
@@ -34,3 +41,5 @@ https://user-images.githubusercontent.com/51063831/195430627-579bb834-b6b5-4665-
 
 #### Posición 5
 ![conf5](https://user-images.githubusercontent.com/51063831/195764710-0eab6a20-37df-4250-bda4-81d9e10d48e5.jpeg)
+
+
